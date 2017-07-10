@@ -1,0 +1,17 @@
+Анализ:
+
+1)http://blank-bso.ru - основан на canvas
+2)http://www.roketprint.ru - конструктор основан на загрузке изображений и последующем его объединении в php (тексn преобразуется в изображение и вставляется в шаблон)
+
+
+
+Еще сайты:
+Пример лендинга:
+	https://in-scale.ru/landing/portfolio/iqbico.ru/#x
+	
+	
+Дополнительные сайты:
+http://altair-rostov.ru/kalkulyator.html канкулятор
+
+http://zakaz.flagman-print.ru/#editor - создание везиток (канвас)
+https://printomat.ru/online/konstruktor
